@@ -10,7 +10,7 @@ currently working on:
 
 ## configuration
 
-if you need an inspiration:
+if you need inspiration:
 
 - [dotfiles](https://github.com/shimeoki/dotfiles) - arch linux via chezmoi
 - [nixconfig](https://github.com/shimeoki/nixconfig) - nixos via flakes
