@@ -1,19 +1,14 @@
 ![banner](./banner.png)
 
-## projects
+# info
 
-currently working on:
+my new projects and repositories not required on github are located on
+[codeberg](https://codeberg.org/shimeoki)
+
+## projects
 
 - [obsidian-store](https://github.com/shimeoki/obsidian-store) - a plugin for
   [obsidian](https://obsidian.md)
-- [wp](https://github.com/shimeoki/wp) - an application for managing wallpapers
-
-## configuration
-
-if you need inspiration:
-
-- [dotfiles](https://github.com/shimeoki/dotfiles) - arch linux via chezmoi
-- [nixconfig](https://github.com/shimeoki/nixconfig) - nixos via flakes
 
 ## credits
 
